@@ -1,0 +1,17 @@
+# Software
+Die Software auf Apple Geräten, besonders iPhones und ipads ist extrem restriktiv was die Möglichkeiten der Benutzer angeht.
+Da es kein Crossloading gibt, muss man alles aus dem Offiziellen Apple Appstore herunterladen.
+Dadurch hat man eine kleinere Auswahlmöglichkeit an Software und wird dazu gezwungen bestimmte Software zu verwenden.
+Ähnliches zeigt sich in anderen Feldern, damit ein Webbrowser in den Appstore aufgenommen werden kann, muss er WebKit, die Browser Engine von Apple, verwenden um das eigentliche Webredering durchzuführen{{footnote: [WebKit](https://infrequently.org/2021/08/webkit-ios-deep-dive/)}}. Dadurch ist jeder Browser praktisch Safari, nur mit einer anderen UI/GUI. Dadurch verhindert Apple auch das implementieren von Teilen der Web Spezifikationen, wie Progressive Web Apps, da diese dem Geld Umsatz des Appstores schaden könnten. Allerdings schadet dies den Nutzern, da PWAs eben nicht verwendet werden können.
+Zusätzlich sind die Dateisysteme von Apple Geräten vor dem Nutzer versteckt, dadurch kann man nicht lernen, wie man Dateien zu sortieren hat, was in vielen späteren Berufen wichtig sein kann.  
+Nachdem Apple den Software Support für eines ihrer Geräte beendet, gibt es keine Möglichkeit dieses Gerät sicher zu halten. Da Android open Source ist, gibt es viele Alternative Distributionen, die ein Gerät auch noch Jahre nach Ablauf des Supports der Hersteller sicher halten können. Da allerdings sowohl die Hardware als auch Software von Apple Geräten Vollkommen Proprietär ist, und es auch keine Möglichkeit gibt, das Betriebssystem auszutauschen, ist dies unmöglich.
+Generell hat es sich gezeigt, das Security by obscurity, das Sicherheitsmodell mit dem Apple arbeitet nicht wirklich gut funktioniert{{footnote: [Security by Obscurity](https://de.wikipedia.org/wiki/Security_through_obscurity)}} {{footnote: [Security by Obscurity is not an Answer](https://www.pearsonitcertification.com/articles/article.aspx?p=2218577&seqNum=7)}}. Bei diesem Modell, wird die Funktionsweise von Software und Hardware geheim gehalten um ein System sicherer zu machen. Wenn allerdings, Funktionsweise und Quellcode von Software offen sind und von jedem Angeschaut werden können, können Sicherheitslücken durch theoretische Analyse eines Programms gefunden werden, bevor dieses überhaupt bei den Nutzern landet. Außerdem kann Jeder, der Programmieren kann, in diesem Fall, Fehler beheben und das Produkt für alle besser machen.
+
+Außerdem werden von Apple Software, alle, bis auf die nullste, Freiheiten von Freier Software gebrochen, welche die Freiheiten von Nutzern von Software sicherstellen sollen:  
+0. Die Freiheit, das Programm auszuführen wie man möchte, für jeden Zweck.
+1. Die Freiheit, die Funktionsweise des Programms zu untersuchen und eigenen 
+2. Datenverarbeitungbedürfnissen anzupassen. Der Zugang zum Quellcode ist dafür Voraussetzung.
+3. Die Freiheit, das Programm zu redistribuieren und damit Mitmenschen zu helfen (Freiheit 2).
+4. Die Freiheit, das Programm zu verbessern und diese Verbesserungen der Öffentlichkeit freizugeben, damit die gesamte Gesellschaft davon profitiert. Der Zugang zum Quellcode ist dafür Voraussetzung.
+
+Diese Freiheiten, die von der FSF und GNU {{footnote: [GNU Website über die Freiheiten](https://www.gnu.org/philosophy/free-sw.en.html)}} festgelegt wurden, sollen Sicherstellen, das die Nutzer komplette Freiheit über ihre Systeme haben und nicht von Firmen zu Sachen gezwungen werden, die sie nicht wollen.

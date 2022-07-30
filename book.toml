@@ -1,0 +1,16 @@
+[book]
+authors = ["Paul F."]
+language = "de-de"
+multilingual = false
+src = "src"
+
+[preprocessor.custom]
+command = "python preprocess.py"
+
+[preprocessor.footnote]
+
+[output.html]
+
+[output.pdf]
+
+[output.markdown]
