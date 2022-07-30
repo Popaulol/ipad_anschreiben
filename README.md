@@ -19,8 +19,8 @@ cargo install mdbook-footnote
 ```
 5. clone this repository using git or aquire the files in another way
 ```sh
-git clone ...
-cd ...
+git clone https://github.com/Popaulol/ipad_anschreiben
+cd ipad_anschreiben
 ```
 6. build the book using mdbook. Both the pdf and html versions can be found in the `book` directory
 ```
