@@ -1,7 +1,7 @@
 # Politische Motivationen
 
 ### Greenwashing
-Während Apple teilweise Werbung damit macht, dass sie ein Klimafreundliches Unternehmen sind, während es im Hintergrund Lobbyismus gegen Klimaschutz betreibt. {{footnote: https://www.golem.de/news/greenwashing-apple-soll-klimafeindliche-gruppierungen-unterstuetzen-2206-165818.html}}
+Während Apple teilweise Werbung damit macht, dass sie ein Klimafreundliches Unternehmen sind, während es im Hintergrund Lobbyismus gegen Klimaschutz betreibt. {{footnote: [https://www.golem.de/news/greenwashing-apple-soll-klimafeindliche-gruppierungen-unterstuetzen-2206-165818.html](https://www.golem.de/news/greenwashing-apple-soll-klimafeindliche-gruppierungen-unterstuetzen-2206-165818.html)}}
 
 ### Monopol
 Apple versucht unseres Erachtens nach ein Monopol auf den Bildungsmarkt zu bekommen.
